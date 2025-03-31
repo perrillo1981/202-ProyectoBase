@@ -1,0 +1,23 @@
+De Acuerdo a lo reizado en clase el proyecto tendra una estructura en capas la cual se describe a continuacion
+
+Recuerden que el proyecto tendra que tener nombre corto y descriptivo a el negocio que atenderan y la creacion de paquetes tendra que tener la siguiente estructura com."nombre del negocio".capa
+
+Proyecto
+!
+!
+!------main   //Capa de ejecucion de la aplicacion
+!
+!------vists  //Capa de Pantallas de la aplicacion
+!
+!-----services // Capa de Logica  
+!
+!----persistance/dao  //Capa de acceso a Datos
+!
+!----persistence/model // Representacion de objetos de tablas
+!
+!----persistance/conexion  // Capa de conexion a datos
+!
+!---------util    // Clases de utileria y ayuda ala aplicacion
+
+
+
